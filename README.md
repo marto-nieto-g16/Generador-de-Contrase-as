@@ -1,4 +1,3 @@
-Aquí tienes un ejemplo de un archivo `README.md` que puedes utilizar para tu proyecto de generador de contraseñas en Flask y Python. Este archivo incluye secciones sobre el proyecto, requisitos, instalación, uso y contribuciones.
 
 ```markdown
 # Generador de Contraseñas en Flask
