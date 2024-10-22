@@ -2,7 +2,9 @@
 ```markdown
 # Generador de Contraseñas en Flask
 
-Este proyecto es un generador de contraseñas seguras desarrollado con Flask y Python. Permite a los usuarios crear contraseñas aleatorias con opciones para incluir dígitos y caracteres especiales. Es una herramienta útil para mejorar la seguridad de las cuentas en línea.
+Este proyecto es un generador de contraseñas seguras desarrollado con Flask y Python.
+Permite a los usuarios crear contraseñas aleatorias con opciones para incluir dígitos y caracteres especiales.
+Es una herramienta útil para mejorar la seguridad de las cuentas en línea.
 
 ## Características
 
