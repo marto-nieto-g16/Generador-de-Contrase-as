@@ -5,15 +5,6 @@ Aquí tienes un ejemplo de un archivo `README.md` que puedes utilizar para tu pr
 
 Este proyecto es un generador de contraseñas seguras desarrollado con Flask y Python. Permite a los usuarios crear contraseñas aleatorias con opciones para incluir dígitos y caracteres especiales. Es una herramienta útil para mejorar la seguridad de las cuentas en línea.
 
-## Índice
-
-- [Características](#características)
-- [Requisitos](#requisitos)
-- [Instalación](#instalación)
-- [Uso](#uso)
-- [Contribuciones](#contribuciones)
-- [Licencia](#licencia)
-
 ## Características
 
 - Generación de contraseñas aleatorias de longitud configurable.
@@ -35,15 +26,7 @@ Este proyecto es un generador de contraseñas seguras desarrollado con Flask y P
    cd generador_contraseñas
    ```
 
-2. **Crea un entorno virtual (opcional pero recomendado)**:
-
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # En Linux/Mac
-   venv\Scripts\activate     # En Windows
-   ```
-
-3. **Instala Flask**:
+2. **Instala Flask**:
 
    ```bash
    pip install Flask
